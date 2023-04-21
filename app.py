@@ -4,7 +4,7 @@ import openai
 app = Flask(__name__)
 
 # Load your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "Add the key"
 
 # Define the route for the home page
 @app.route('/')
