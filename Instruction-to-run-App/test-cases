@@ -1,0 +1,17 @@
+
+
+Following are some sample test cases inputs for the Flask application that can handle summarizing rules from various sections of the California Driver's Handbook:
+
+1.Test Case: Slippery roads skids. Can you help summarize rules?
+
+2.Test Case: Summarize rules for driving in roundabouts
+
+3.Test Case: Summarize rules for interacting with pedestrians
+
+4.Test Case: Summarize rules for speed limits.
+
+5.Test Case: Summarize rules for parking.
+
+6.Test Case: Summarize rules for traffic signals and signs.
+
+To test these cases, you can enter each input in the text field of the Flask application and click the "Submit" button. The summarized rules should be displayed as a list in the application's user interface.
