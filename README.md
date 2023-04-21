@@ -48,3 +48,9 @@ python app.py
 To use the ChatGPT-California-Driver's-Handbook web application, simply type your question about driving rules in the input field, then click the "Send" button or press the Enter key. The AI will process your question and provide a summarized answer from the California Driver's Handbook.
 
 You can also view your query history by clicking the "History" button in the Actions section.
+
+
+
+
+https://user-images.githubusercontent.com/99461999/233743881-cd026ba7-3fdb-4907-af6a-f614814f5e70.mov
+
