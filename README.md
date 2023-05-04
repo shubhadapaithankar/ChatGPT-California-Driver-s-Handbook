@@ -2,6 +2,8 @@
 
 This repository contains the source code for a web application that utilizes ChatGPT to provide summarized information on driving rules from the California Driver's Handbook. Users can ask questions about driving rules, and the AI will help them by providing summarized answers.
 
+California Driver's Handbook offers a comprehensive summary and explanation of California's driving rules, regulations, and best practices to help users become responsible and knowledgeable drivers in the state. It covers essential topics, such as road signs, traffic laws, and safe driving techniques, to ensure driver safety and compliance.
+
 <img width="1440" alt="Screen Shot 2023-04-21 at 3 26 16 PM" src="https://user-images.githubusercontent.com/99461999/233743567-9a11b397-eb8a-421f-83bc-662396dc3f46.png">
 
 <img width="1439" alt="Screen Shot 2023-04-21 at 3 26 48 PM" src="https://user-images.githubusercontent.com/99461999/233743599-5592b4e9-2a14-40bb-949b-4218a32fbf90.png">
